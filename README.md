@@ -14,7 +14,7 @@
 
 This project leverages the power of Convolutional Neural Networks (CNNs) implemented with TensorFlow to recognize and classify facial expressions into distinct categories based on gender and emotion. The goal is to accurately predict four combined categories: HappyMale, HappyFemale, SadMale, and SadFemale.
 
-## Developed Individual Models
+### Developed Individual Models
 - **Gender Recognition Model**: Built and trained a CNN that accurately classifies images as male or female.
 - **Emotion Recognition Model**: Developed a separate CNN for emotion recognition, capable of classifying images as happy or sad.
 
