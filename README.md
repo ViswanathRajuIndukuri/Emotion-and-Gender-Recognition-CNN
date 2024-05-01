@@ -18,17 +18,17 @@ This project leverages the power of Convolutional Neural Networks (CNNs) impleme
 - **Gender Recognition Model**: Built and trained a CNN that accurately classifies images as male or female.
 - **Emotion Recognition Model**: Developed a separate CNN for emotion recognition, capable of classifying images as happy or sad.
 
-## Integrated Model Predictions
+### Integrated Model Predictions
 - Implemented a method to cross-utilize predictions from both the gender and emotion models, enriching our dataset and improving prediction accuracy.
 
-## Created a Unified Dataset
+### Created a Unified Dataset
 - Combined the predictions from both the gender and emotion recognition models to create a unified dataset with comprehensive dual labels.
 
-## Trained a Unified Model
+### Trained a Unified Model
 - Developed a robust unified CNN model that predicts four combined categories: HappyMale, HappyFemale, SadMale, and SadFemale, showcasing effective multi-label classification.
 
-## Evaluated Model Performance
+### Evaluated Model Performance
 - Rigorously tested the unified model across various metrics to assess its accuracy and efficiency, demonstrating high performance and robustness.
 
-## Generalized Model Application
+### Generalized Model Application
 - Ensured the model performs well on unseen data, validating its effectiveness and generalizability for practical deployment.
