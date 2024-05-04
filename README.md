@@ -1,4 +1,4 @@
-# Emotion-and-Gender-Recognition-using-Convolutional-Neural-Networks
+# Emotion and Gender Recognition using Convolutional Neural Networks
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
