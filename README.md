@@ -11,7 +11,7 @@
 
 ![img-ezgif com-webp-to-jpg-converter](https://github.com/ViswanathRajuIndukuri/Emotion-and-Gender-Recognition-using-Convolutional-Neural-Networks/assets/144731305/c66f726e-dfed-4d5f-8d9c-a644ac534dfc)
 
-
+### Project Description
 This project leverages the power of Convolutional Neural Networks (CNNs) implemented with TensorFlow to recognize and classify facial expressions into distinct categories based on gender and emotion. The goal is to accurately predict four combined categories: HappyMale, HappyFemale, SadMale, and SadFemale.
 
 ### Developed Individual Models
